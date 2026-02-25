@@ -11,7 +11,7 @@ The **Medical Chatbot** is an end-to-end Generative AI application built using a
 Clone the repository
 
 ```bash
-git clonehttps://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+git clone https://github.com/sharad0x/AI-Medical-ChatBot
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
